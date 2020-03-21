@@ -24,16 +24,13 @@
         android:gravity="center">
 
 
-    <ImageView
-        android:id="@+id/test"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:src="@mipmap/ic_launcher" />
+        <ImageView
+            android:id="@+id/test"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@mipmap/ic_launcher" />
 
     </LinearLayout>
-
-
-
 
 
 </LinearLayout>
