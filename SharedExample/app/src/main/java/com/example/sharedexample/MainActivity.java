@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         SharedPreferences sharedPreferences = getSharedPreferences(shared,0);
         String value = sharedPreferences.getString("kim","");
         et_save.setText(value);
+        
     }
 
     @Override
